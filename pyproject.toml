@@ -1,6 +1,6 @@
 [project]
 name = "pykeepalive"
-version = "0.1.0"
+version = "0.1.1"
 description = "Keep your system awake by simulating mouse activity"
 readme = "README.md"
 license = { text = "MIT" }
