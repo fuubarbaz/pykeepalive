@@ -14,7 +14,11 @@ A simple Python tool that keeps your system awake by making tiny periodic mouse 
 
 ### Prerequisites
 - Python 3.12 or higher
-- [uv](https://github.com/astral-sh/uv) package manager
+
+### Install from PyPI
+```bash
+pip install pykeepalive
+```
 
 ### Install from source
 ```bash
